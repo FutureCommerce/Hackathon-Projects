@@ -1,2 +1,3 @@
 # For Hackathon-Projects
-projects
+
+For FutureCommerce Hackathon projects.
