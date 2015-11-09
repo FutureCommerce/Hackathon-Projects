@@ -1,6 +1,6 @@
 # For Hackathon-Projects
 
-For FutureCommerce Hackathon projects...
+For FutureCommerce Hackathon projects... that will show up at http://futurecommerce.github.io/Hackathon-Projects
 
 If you are leading or working on a project, just "fork" this "repo"!  Here are the steps:
 
