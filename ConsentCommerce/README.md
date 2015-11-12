@@ -8,6 +8,10 @@ The idea is to promote consent management.  Link consent and its role in informa
 * User Submitted Terms
 * consent propoganda: 
 * Strenghts and Weakness: 
+* 
+Some consent videos
+pro-consent - https://www.youtube.com/watch?v=oQbei5JGiT8 - consent tea
+anti-consent - https://www.youtube.com/watch?v=YfCrYTZDQm0&feature=share
 
 Themes
 
@@ -21,7 +25,7 @@ People Facing: Privacy Day Project - Demonstrate How Consent is future of Confer
 
 We need all sort of skills to help with this project and just a small contribution will go along way. 
 
-Consent for Business and Consent for Privacy  Sessions. 
+Consent for Business and Consent for Privacy  Sessions are the aim.
 
 Planning 
 Nov 20
