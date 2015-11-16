@@ -1,65 +1,23 @@
-Consent Commerce : 
+Consent For Commerce : 
 
-Calling everyone who cares about consent, privacy and data control to get involved in this project.   We are looking for writers/researchers, designers, developers, marketeers, and technologist and any person who is interested in helping engineer tools so people  can  control and own their own data.  See what privacy they have.  
+Create a Privacy Day Campaign to support innovation and turn on real consent.  Create Real Trust
 
-in this privacy day hack, we want to get as many people as possible to submit a privacy day consent request to a company, asking for consent record, is the company uses outside sources of data, sharing practices. 
+People have become the product and our personal data the oil.  Terms of service and consent to privacy policies are un usable and not meaningful. People do not provide real consent, and the consent that is provided is practically useless for people.   Lack of real consent for commerce and no choice, we either like it, or lump it. 
 
-Sign petiton for independant privacy infrasmatructure 
+As such, This Future of Commerce Hackathon project is to create a Privacy Day Campaign to change this. Using Consent Law to hack open choices.  Updated laws, new awareness, a willingess to enforce and lower tolerance by all of use people is apparent. 
 
+The Rank Digital Rights Project (https://rankingdigitalrights.org/index2015/all-indicators/) - shows exactly how much companies care and the Special 2015 Eurobarometer report (http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_data_protection_eurobarometer_240615_en.pdf) illustrates how much people don't like it.    This is apparent in the market now as the use of Ad blocker has grown to the biggest (commercial) boycott in human history, the EU-US Safe Harbor treaty has disintigrated and the courts are not supporting click through terms and commercial practices based on quasi consent.   
 
-Some consent videos
-pro-consent - https://www.youtube.com/watch?v=oQbei5JGiT8 - consent tea
-anti-consent - https://www.youtube.com/watch?v=YfCrYTZDQm0&feature=share
+We need a new way to do things.  
 
-Themes
+At the moment people can't track who has their consent, can't manage consent independantly of a service provider, and people have to manage consent one service provider at a time.   This is not meaningful and its impossible for people to manage data sharing and have to log into to each provider seperately to manage it.   
 
-Can consent managmeent be used to control personal data? 
-How can consent be used to increase experience, personally and as a customer? 
+****
+Calling everyone who cares about consent, privacy and data control to get involved in supporting this project.  Our data, and our identities are being bought, sold and harvested by an ever increasing army of companies.  
 
-Research 
-- Ranking Digital Rights
--   Top companies that control most of the tracking and data provide very little control to pepople
--   information that is requied to be open by law is closed
--   obsucre data collection practices
--   profiling peole collection of user information from third party data sources 
--   data retention
--   easy access to change or control any of these preferences
-- Europrse Research
--   
-Solution approach is to enable people to externally and indpendantly interact with companies, this requires two new bits of consent managmmeent  innovation. 
-- 1. people can send a request to a company using the law to manage personal data with consent and notice law as the commmon facilitaty 
-- 2. that a person can make a request to manage personal data to multiple companies at once. 
+This hackathon project will use the Consent Record standard from the Kantara Initiative,  Legal Hacking, and social power to create a button that makes it clear how to access, control and manage consent.  
 
-We have two main project streams. 
+On Privacy Day, we want to get as many people as possible to submit a privacy day consent request to a company, asking for consent record, is the company uses outside sources of data, sharing practices.
 
-Planning 
-Nov 20
-Intro: 
-- FIPS: Notice & Choice
-- Privacy Day
-- Consent Receipts
-
-Nov 20
-    - Fri - Fab Lab - Intro/go over plan
-Nov 21
-    - Sat - Present the core questions and the legal hack
-        - Session 1 Design the Campaign & Name
-        - Session 2: the letter, and form, for companies to respond 
-        - Session 3: the data, the analysis and the responses, and follow up communications
-        - Panel : EU Safe Harbour, Consent, balkanisation of the internet, impact of new laws - etc. 
-Nov 22 - Sun
-        - Session 3: video - promotion
-- proposal: plan, presentation & execution
-- documentation
-    - what is the consent law, what it means, standard minimum viable consent receipt
-  
-
-
-
-Looking for different skills: 
-Looking for help mapping some law and process 
-Looking for lawyers who want to hack consent - 
-Looking for developers 
-Looking for designers to make this real!  
-Looking for people that want to help codify consent notice law so its accessible by the masses. 
+We are looking for all able bodies to help,  writers/researchers, designers, developers, marketeers, promoters and evangelists. Any person who is interested in helping engineer tools so people  can  control and own their own data.  See what privacy they have.  
 
