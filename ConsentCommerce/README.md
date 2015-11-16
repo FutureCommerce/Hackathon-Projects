@@ -4,7 +4,7 @@ Create a Privacy Day Campaign to support innovation and turn on real consent.  C
 
 People have become the product and our personal data the oil.  Terms of service and consent to privacy policies are un usable and not meaningful. People do not provide real consent, and the consent that is provided is practically useless for people.   We either like it, or lump it.  (up until now)
 
-As such, This Future of Commerce Hackathon project is to create a Privacy Day Campaign to change this. Using Consent Law to hack open choices.  Updated laws, new awareness, a willingess to enforce and lower tolerance by all of use people is apparent. 
+As such, This Future of Commerce Hackathon project is to create a Privacy Day Campaign. Using Consent Law to hack open choices.  Updated laws, new awareness, a willingess to enforce and lower tolerance by all of use people is apparent. 
 
 The Rank Digital Rights Project (https://rankingdigitalrights.org/index2015/all-indicators/) - shows exactly how much companies care and the Special 2015 Eurobarometer report (http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_data_protection_eurobarometer_240615_en.pdf) illustrates how much people don't like it.    This is apparent in the market now as the use of Ad blocker has grown to the biggest (commercial) boycott in human history, the EU-US Safe Harbor treaty has disintigrated and the courts are not supporting click through terms and commercial practices based on quasi consent.   
 
