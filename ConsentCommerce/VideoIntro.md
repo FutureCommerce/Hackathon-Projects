@@ -1,19 +1,16 @@
 
-# Video Intro Script ## Hackathon Project to Make a Privacy day Campaign for Jan 28 2016
+# Video Intro Script 
 
 
 Hi My name is Mark Lizar
 - Createing a project for MIT Media Labs Future of Commerce - Hackathon and Un-COnference. 
-- when I heard about this - I thought of what can be the most distruptive.- 
+- when I heard about this - I thought of what can be the most distruptive for commerce.- 
 
-## Point 1: Came up with -  "Consent for Future Commerce" as the Project Name 
+## Point 1: Came up with -  "Consent for Commerce" as the Project Name 
 
-- Personal data  is the rocket fuel for the Future of Commerce but today is not usable  due to lack of privacy and   individual control. 
+- Personal data  is the rocket fuel for the Future of Commerce but consent is not usable  So how do we create a new deal on data  so that people can share data on their own terms.  
 
-A new deal on data is needed so that people can share data on their own terms.  
-
-## Point 2:  Lets Create a button that providse consent and can also take it away globally and lets  launch it on the annual privacy day - Jan 28  
--  leveraging existing laws requiring consent for personal data around the world. 
+## Point 2:  Lets create a Global consent button people can use  to provide or take away consent for the use of my data for commerce. 
 
 ## We setup some session to create this project  
 - Panel on Friday night at Fab Lab in London - 5:30 - 8 
