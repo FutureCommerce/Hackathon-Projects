@@ -23,7 +23,7 @@ A new deal on data is needed so that personal data can be used on people's own t
 2. ability for people to make multiple privacy/consent based requests with the press of one button. 
 3. A project kit so that more button options can be made
 
-## Point 4: The Consent for Commerce hacking sessions 
+## Point 4: a brilliant Privacy Day Campaign - legal hacking and  project kit, meaningful social results
 
 - To create a brilliant Privacy Day Campaign we have made some rough sessions 
 - want to be able to use with the latest thinking and technologies in privacy, consent data control  for the next Jan
@@ -34,7 +34,10 @@ A new deal on data is needed so that personal data can be used on people's own t
         - Sun - Oganise and plan campaign
         - to present to the project
 
-## Point 5: Present the project: Make a video/Presentation of the campaign 
+## Point 5: Success will be measure by createing a  global revolution towards data cntrol .  . 
+
+create as big as a scale as possible  
+Present the project: Make a video/Presentation of the campaign 
 
 This personoal data commercial rocket fuel is in effect unstable and explosive.  To refine the fuel source to make  safe, reliable and continuous access, people need control. 
 
