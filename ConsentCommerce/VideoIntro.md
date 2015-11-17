@@ -36,20 +36,5 @@ We setup some session  futurecommerce.civics.com
         - Sun - Oganise and plan campaign
         - to present to the project
 
-## Point 5: To get this control we need a new deal on data and the best way to achieve that is with a successfull global privacy day  effort where people stand up to control their data.  
 
-
-create as big as a scale as possible  
-Present the project: Make a video/Presentation of the campaign 
-
-This personoal data commercial rocket fuel is in effect unstable and explosive.  To refine the fuel source to make  safe, reliable and continuous access, people need control. 
-
-
-
-## Point 3: give back control of personal data and create a button people can get out and click to make that happen. 
-
-- What we want to hack is:
-1. the ability for people to independantly manage cosnet/privacy (not have to log into cmpanies silo's)
-2. ability for people to make multiple privacy/consent based requests with the press of one button. 
-3. A project kit so that more button options can be made
 
