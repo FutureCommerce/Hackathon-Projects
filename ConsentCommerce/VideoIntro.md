@@ -22,19 +22,10 @@ A new deal on data is needed so that personal data can be used on people's own t
 
 ## Point 3: With legal hacking -  that creates meaningful  results around data control
 
-We setup some session  futurecommerce.civics.com  
+## We setup some session  futurecommerce.civics.com  
 - Panel on Friday night at Fab Lab in London - 5:30 - 8 
 - Sat & Sun virtual and maybe local hack session on the project
 
-
-- To create a brilliant Privacy Day Campaign we have made some rough sessions 
-- want to be able to use with the latest thinking and technologies in privacy, consent data control  for the next Jan
-- Fri - A panel about Consnet
-        - Sat - Make the button — The people experience & Legal hacking
-        - Sat - The Project Kit for diff jurisdictions and types of laws -  —> Other Orgs
-            - 
-        - Sun - Oganise and plan campaign
-        - to present to the project
 
 
 
