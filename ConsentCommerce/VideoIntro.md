@@ -7,15 +7,14 @@
 
 - Personal data  is the rocket fuel for the Future of Commerce but make accessible to that personal data fuel is not possible today due to lack of privacy and individual control.
 
-A new deal on data is needed to protect individual's basic property rights in their personal data and ensure fair value exchange in the commercial marketplaces of the future. 
+A new deal on data is needed so that personal data can be used on people's own terms.  A new deal that ensure fair value exchange in the commercial marketplaces of the future. 
 
 ## Point 2: Privacy Day Campaign for Jan 28 2016 leveraging existing laws requiring consent for personal data
 
 - Lets create a  Hackathon Project to Make a Privacy day Campaign for Jan 28 2016
-- Call all writers, promoters, actavists, legal hackers
-- The Proejct idea is to makea a massive civic campaign 
-- Make a button people press that sends a legal request to a company to manage or control consent
-- we will use the hackathon to legally hack the ideas and processes for this button
+- Create a massive civic campaign;  Create a project to with a broad scope of roles; writers, promoters, actavists, legal hackers, etc. 
+- Make a button that people press that sends a legal request to a company to manage or control consent for the access, control and use of personal data on Privacy Day
+- use the hackathon to legally hack the ideas and processes for this button
 
 ## Point 3: give back control of personal data and create a button for multiple requests
 
@@ -27,10 +26,10 @@ A new deal on data is needed to protect individual's basic property rights in th
 
 - The result will be a brilliant Privacy Day Campaign that we can use with the latest thinking and technologies in privacy, consent data control  for the next Jan
 
-## Point 5: We will create a video as part of this session to be presented as a "non-competing" project as part of hackathon.
+## Point 5: Present the project: Make a video/Presentation of the campaign 
 
-This personoal data commercial rocket fuel is in effect unstable and explosive.  To refine the fuel source to make  safe, reliable and continuous access
+This personoal data commercial rocket fuel is in effect unstable and explosive.  To refine the fuel source to make  safe, reliable and continuous access, people need control. 
 
-we need a new deal on data and the best way to achieve that is with a successfull privacy day global effort along teh lines of this proposal. 
+To get this control we need a new deal on data and the best way to achieve that is with a successfull global privacy day  effort where people stand up to control their data.  
 
 
