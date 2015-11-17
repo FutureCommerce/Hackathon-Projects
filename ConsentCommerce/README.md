@@ -10,9 +10,9 @@ Updated laws, new awareness, a willingess to enforce privacy law and lower toler
 
 This is apparent in the market now as the use of Ad blocker has grown to the biggest (commercial) boycott in human history, the EU-US Safe Harbor treaty has disintigrated and the courts are not supporting click through terms and commercial practices based on quasi consent.   
 
-We need a new way to do things.  
+We need new ways to control our data and privacy. 
 
-At the moment people can't track who has their consent, can't manage consent independantly of a service provider, and people have to manage consent with one service provider at a time.   This is not meaningful and its impossible for people to manage data sharing and have to log into to each provider seperately to manage it.   
+People can track consent. At the moment we dont have the tools or the awareness to track and manage consent independantly of a service provider. To do this people have to manage consent with one service provider at a time.     
 
 ****
 
