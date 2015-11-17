@@ -23,9 +23,16 @@ A new deal on data is needed so that personal data can be used on people's own t
 2. ability for people to make multiple privacy/consent based requests with the press of one button. 
 3. A project kit so that more button options can be made
 
-## Point 4: The Consent for Commerce hacking sessions will focus on the button, a kit for volunteers to popularize participation of people who will press the button to invoke their rights. 
+## Point 4: The Consent for Commerce hacking sessions 
 
-- The result will be a brilliant Privacy Day Campaign that we can use with the latest thinking and technologies in privacy, consent data control  for the next Jan
+- To create a brilliant Privacy Day Campaign we have made some rough sessions 
+- want to be able to use with the latest thinking and technologies in privacy, consent data control  for the next Jan
+- Fri - A panel about Consnet
+        - Sat - Make the button — The people experience & Legal hacking
+        - Sat - The Project Kit for diff jurisdictions and types of laws -  —> Other Orgs
+            - 
+        - Sun - Oganise and plan campaign
+        - to present to the project
 
 ## Point 5: Present the project: Make a video/Presentation of the campaign 
 
