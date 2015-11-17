@@ -1,4 +1,5 @@
 # What are the Rights of Inspection and Review of Education Records?
+From: http://www2.ed.gov/policy/gen/guid/fpco/pdf/ferparegs.pdf
 
 ## § 99.10 What rights exist for a parent or eligible student to inspect and review education records?
 
@@ -128,7 +129,8 @@ institution; and
 
 (Authority: 20 U.S.C. 1232g(a)(1) (A), (B), (C), and (D))
 
-# FERPA Clauses: 20 U.S.C. 1232g(a)(1)(A) and (B)
+# Statutory Clauses: 20 U.S.C. 1232g(a)(1)(A) and (B)
+From: https://www.law.cornell.edu/uscode/text/20/1232g
 
 (A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, the parents of students who are or have been in attendance at a school of such agency or at such institution, as the case may be, the right to inspect and review the education records of their children. If any material or document in the education record of a student includes information on more than one student, the parents of one of such students shall have the right to inspect and review only such part of such material or document as relates to such student or to be informed of the specific information contained in such part of such material. Each educational agency or institution shall establish appropriate procedures for the granting of a request by parents for access to the education records of their children within a reasonable period of time, but in no case more than forty-five days after the request has been made.
 
