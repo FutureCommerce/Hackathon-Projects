@@ -15,11 +15,11 @@ A new deal on data is needed so that people can share data on their own terms.
 ## Point 2:  Lets Create a button that providse consent and can also take it away globally and lets  launch it on the annual privacy day - Jan 28  
 -  leveraging existing laws requiring consent for personal data around the world. 
 
-## We setup some session  futurecommerce.civics.com  
+## We setup some session to create this project  
 - Panel on Friday night at Fab Lab in London - 5:30 - 8 
 - Sat & Sun virtual and maybe local hack session on the project and project kit
 - - Then Present it to see what we have come with. 
 
-Join us now and create consent for futture consent  
+Join us now and create consent for futture of commerce -  futurecommerce.civics.com  
 
 
