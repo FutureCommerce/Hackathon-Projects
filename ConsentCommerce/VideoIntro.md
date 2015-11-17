@@ -1,13 +1,11 @@
 
-# Video Intro Script
+# Video Intro Script ## Hackathon Project to Make a Privacy day Campaign for Jan 28 2016
 
 
 Hi My name is Mark Lizar
 - Createing a project for MIT Media Labs Future of Commerce - Hackathon and Un-COnference. 
 - 
 when I heard about this - I thought of what can be the most distruptie. 
-
-## Hackathon Project to Make a Privacy day Campaign for Jan 28 2016
 
 ## Point 1: Need "Consent for Commerce"
 
