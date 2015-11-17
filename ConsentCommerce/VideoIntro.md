@@ -18,9 +18,10 @@ A new deal on data is needed so that personal data can be used on people's own t
 
 ## Point 3: give back control of personal data and create a button for multiple requests
 
-- two things want to hack is:
+- What we want to hack is:
 1. the ability for people to independantly manage cosnet/privacy (not have to log into cmpanies silo's)
 2. ability for people to make multiple privacy/consent based requests with the press of one button. 
+3. A project kit so that more button options can be made
 
 ## Point 4: The Consent for Commerce hacking sessions will focus on the button, a kit for volunteers to popularize participation of people who will press the button to invoke their rights. 
 
