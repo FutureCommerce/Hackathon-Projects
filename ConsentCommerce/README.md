@@ -1,10 +1,10 @@
-Consent For Commerce : 
+Consent For Future Commerce : 
 
-The Challenge: Create a Privacy Day Campaign to support innovation and turn on real consent.  'Create Real Trust'
+The Challenge: Create a campaign for annual Privacy Day  which will  turn on real consent.  
 
-People have become the product and our personal data the oil of the Internet.  Terms of service and consent to privacy policies are un usable and not meaningful. People do not provide real consent, and the consent that is provided is practically useless for people.   We either like it, or lump it.  (up until now)
+People have become the product and our personal data the oil of the Internet.  Terms of service and consent to privacy policies are un usable and not meaningful. People do not provide real consent, and the consent that is provided is practically meaningless for people.   We either like it, or lump it.  (up until now)
 
-As such, This Future of Commerce Hackathon project is to create a Privacy Day Campaign. Using Consent Law to hack open choices.
+As such, This Future of Commerce Hackathon project is to create an effictive Civic campaign. Using Consent Law to hack open choices.
 
 Updated laws, new awareness, a willingess to enforce privacy law and lower tolerance by all of use people is now apparent.  The Rank Digital Rights Project (https://rankingdigitalrights.org/index2015/all-indicators/) - shows exactly how much companies care and the Special 2015 Eurobarometer report, (http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_data_protection_eurobarometer_240615_en.pdf) illustrates how much people don't like it.   
 
@@ -12,7 +12,6 @@ This is apparent in the market now as the use of Ad blocker has grown to the big
 
 We need new ways to control our data and privacy. 
 
-People can track consent. At the moment we dont have the tools or the awareness to track and manage consent independantly of a service provider. To do this people have to manage consent with one service provider at a time.     
 
 ****
 
@@ -22,5 +21,5 @@ On Privacy Day, we want to get as many people as possible to click a privacy day
 
 We are looking for all able bodies to help; writers/researchers, designers, developers, marketeers, promoters and evangelists. Any person who is interested in helping engineer tools so people  can  control and own their own data.  
 
-Starting with an introduction on Friday at 6pm,  with a Sandy Pentland key note. Continuing with 3 sessions on Saturday, and two on Sunday.
+Starting with an introduction on Friday at 5:30 pm London Time,  with a Sandy Pentland key note. Continuing with 3 sessions on Saturday, and two on Sunday.
 
