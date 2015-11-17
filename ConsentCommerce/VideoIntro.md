@@ -16,7 +16,7 @@ A new deal on data is needed so that personal data can be used on people's own t
 - Make a button that people press that sends a legal request to a company to manage or control consent for the access, control and use of personal data on Privacy Day
 - use the hackathon to legally hack the ideas and processes for this button
 
-## Point 3: give back control of personal data and create a button for multiple requests
+## Point 3: give back control of personal data and create a button people can get out and click to make that happen. 
 
 - What we want to hack is:
 1. the ability for people to independantly manage cosnet/privacy (not have to log into cmpanies silo's)
