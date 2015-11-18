@@ -1,4 +1,4 @@
-** Consent For Future Commerce Project ** 
+** Consent For Commerce Project ** 
 http://futurecommerce.civics.com/
 
 The Challenge: To Create and present a  Global Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
