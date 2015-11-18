@@ -13,10 +13,10 @@ Everyone who signs up to the hackathon will get a slack invite and added  to the
 
 The Project Hackathon has identified modules to plan out and present. 
 * 1. the consent legal hack pattern (spreadsheet for creating a button) 
-2. THe UX (wire frame plan, template letter to company and dev time) 
-3. The UX for companies (wire frame plan, template letter to people, deve time) 
-4. The project kit to create more buttons
-5. The Presentation of the Project
+* 2. THe UX (wire frame plan, template letter to company and dev time) 
+* 3. The UX for companies (wire frame plan, template letter to people, deve time) 
+* 4. The project kit to create more buttons
+* 5. The Presentation of the Project
 
 The Hack-plan is to work on Slack and via video conference to cover these modules over the weekend as we work through a use case for the Privacy Day consent button.  I.e. Health Care. 
 
