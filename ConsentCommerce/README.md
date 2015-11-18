@@ -12,7 +12,7 @@ The second part of the event is the Hackathon, you do not have to attend the hac
 Everyone who signs up to the hackathon will get a slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
 The Project Hackathon has identified modules to plan out and present. 
-1. the consent legal hack pattern (spreadsheet for creating a button) 
+* 1. the consent legal hack pattern (spreadsheet for creating a button) 
 2. THe UX (wire frame plan, template letter to company and dev time) 
 3. The UX for companies (wire frame plan, template letter to people, deve time) 
 4. The project kit to create more buttons
