@@ -1,17 +1,20 @@
-** Consent For Future Commerce Project : 
+** Consent For Future Commerce Project ** 
+http://futurecommerce.civics.com/
 
 The Challenge: To Create and present a  Global Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
 
 The first event is on Friday at 5:30 - 8 pm London, England - its a social about consent and its use for commerce that is arranged around the kick off of the MIT Medial Labs: Future of Commerce Hackathon & Un-Conference. 
 
 This will be held at the Fab Lab in London 
-you can sign up to come to the London event at the hacathon on this webstie.  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
+you can sign up to come to the London event at the hackathon on this webstie (https://onlinehackathon2015.sched.org/).  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
 
 The second part of the event is the Hackathon, you do not have to attend the hackathon to attend teh Friday night social. 
 
 Everyone who signs up to the hackathon will get a slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
-The Project Hackathon has identified modules to plan out and present. 
+****
+
+This Project Hack has identified modules to plan out and present on sunday in form of a campaign plan. 
 * 1. the consent legal hack pattern (spreadsheet for creating a button) 
 * 2. THe UX (wire frame plan, template letter to company and dev time) 
 * 3. The UX for companies (wire frame plan, template letter to people, deve time) 
