@@ -1,16 +1,18 @@
 ** Consent For Commerce Project ** 
 http://futurecommerce.civics.com/
 
-The Challenge: To Create and present a  Global Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
+The Challenge: To Create and present a  Global Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency and privacy.  
 
-The first event is on Friday at 5:30 - 8 pm London, England - its a social about consent and its use for commerce that is arranged around the kick off of the MIT Medial Labs: Future of Commerce Hackathon & Un-Conference. 
+The first event is on Friday at 5:30 - 8 pm London, England - its a social with a focus on consent and it  is arranged around the kick off of the MIT Medial Labs: Future of Commerce Hackathon & Un-Conference. 
 
 This will be held at the Fab Lab in London 
-you can sign up to come to the London event at the hackathon on this webstie (https://onlinehackathon2015.sched.org/).  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
+1 Frederick's Place, London, EC2R 8AE, United Kingdom
 
-The second part of the event is the Hackathon, you do not have to participate the hackathon to attend the Friday night social. 
+You can sign up to come to the London event at the hackathon on this webstie (https://onlinehackathon2015.sched.org/).  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
 
-Everyone who signs up to the hackathon will get a slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
+The second part of the event is the Hackathon, you do not have to participate in the hackathon to attend the Friday night social. 
+
+Everyone who signs up to the hackathon will get a Slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
 All you have to do is 
 * sign up via https://onlinehackathon2015.sched.org/
@@ -29,9 +31,9 @@ This Project Hack has identified modules to plan out to be presented on Sunday
 * 5. The Presentation of the Project
 
 
-The Hack-plan is to work on Slack and via video conference to cover these modules over the weekend as we work through a use case for the Privacy Day consent button.  I.e. Health Care. 
+The Hack-plan is to work on Slack and via video conference to cover these modules over the weekend as we work through a use case for the Privacy Day consent button.  i.e. Health Care Data Access. 
 
-Everyone who has an interest and can help with any of the above, from legal hacking notice requirements, to creating instructions, promoting, making desings. etc.  
+Everyone who has an interest and can help with any of the above, from legal hacking notice requirements, to creating instructions, promoting, graphic desings, messaging form. etc.  
 
 (NOTE: We are also looking for other project research or otherwise who might be interested in making a buttong with the project kit or even partnering with the project itself.) 
 
@@ -54,9 +56,9 @@ Companies and people need new and more performative ways to control  data and pr
 
 ****
 
-This hackathon project will use the Consent Record Specification from the Kantara Initiative,  Legal Hacking, and social power to create a button that makes it clear how to access, control and  enable people to manage consent.  
+The Hack: On Privacy Day, we want to imagine the best campaign possible and propose it.  We want to  get as many people as possible to click a privacy day button and sign a petition, send a request, and crowdsource company consent policy.  This is imagined throug the use of an open form that is hacked at the hackathon.  The form will help people  to configure their own button for a request to a company.  
 
-On Privacy Day, we want to get as many people as possible to click a privacy day button and sign a petition, send a request, and crowdsource company consent policy.  This is imagined throug the use of an open form that is hacked at the hackathon.  The form will help people  to configure their own button for a request to a company.  
+Use the Consent Record Specification from the Kantara Initiative,  Legal Hacking, and social power to create a button that makes it clear how to access, control and  enable people to manage consent.  
 
 We will also create a response form for the company which will in effect create a consent record and response to the request in the form of a consent receipt which the individual then receives.  (see http://techscience.org/a/2015101601/)
 
