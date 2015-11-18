@@ -28,6 +28,7 @@ This Project Hack has identified modules to plan out to be presented on Sunday
 * 4. The project kit to create more buttons
 * 5. The Presentation of the Project
 
+
 The Hack-plan is to work on Slack and via video conference to cover these modules over the weekend as we work through a use case for the Privacy Day consent button.  I.e. Health Care. 
 
 Everyone who has an interest and can help with any of the above, from legal hacking notice requirements, to creating instructions, promoting, making desings. etc.  
