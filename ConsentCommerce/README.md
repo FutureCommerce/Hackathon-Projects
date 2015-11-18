@@ -1,4 +1,4 @@
-** Consent For Future Commerce : 
+** Consent For Future Commerce Project : 
 
 The Challenge: To Create and present a Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
 
@@ -13,8 +13,8 @@ Everyone who signs up to the hackathon will get a slack invite and added  to the
 
 The Project Hackathon has identified modules to plan out and present. 
 1. the consent legal hack pattern (spreadsheet for creating a button) 
-2. THe UX (wire frame plan, letter to company and dev time) 
-3. The UX for companies (wire frame plan, letter to people, deve time) 
+2. THe UX (wire frame plan, template letter to company and dev time) 
+3. The UX for companies (wire frame plan, template letter to people, deve time) 
 4. The project kit to create more buttons
 5. The Presentation of the Project
 
