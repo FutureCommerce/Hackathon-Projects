@@ -19,8 +19,9 @@ All you have to do is
 * send me an email/message to add you to Slack  m.lizar@openconsentgroup.com
 
 ****
-
-This Project Hack has identified modules to plan out and present on sunday in form of a campaign plan. 
+ The underlying goal is to experiment with creating a two way policy communication channel between the consent grantor (the person), and the grantee (the organisation)
+ 
+This Project Hack has identified modules to plan out to be presented on Sunday
 * 1. the consent legal hack pattern (spreadsheet for creating a button) 
 * 2. THe UX (wire frame plan, template letter to company and dev time) 
 * 3. The UX for companies (wire frame plan, template letter to people, deve time) 
