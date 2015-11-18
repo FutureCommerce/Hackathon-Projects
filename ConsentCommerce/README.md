@@ -1,6 +1,6 @@
 ** Consent For Future Commerce Project : 
 
-The Challenge: To Create and present a Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
+The Challenge: To Create and present a  Global Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
 
 The first event is on Friday at 5:30 - 8 pm London, England - its a social about consent and its use for commerce that is arranged around the kick off of the MIT Medial Labs: Future of Commerce Hackathon & Un-Conference. 
 
@@ -30,22 +30,24 @@ If there is anyone interested in facillitating one of the modules please get in 
 
 People have become the product and our personal data the oil of the Internet.  Terms of service and consent to privacy policies are un usable and not meaningful. People do not provide real consent, and the consent that is provided is practically meaningless for people.   We either like it, or lump it.  (up until now)
 
-As such, This Future of Commerce Hackathon project is to create an effictive Civic campaign. Using Consent Law to hack open choices.
+As such, This Future of Commerce Hackathon project is to create an effictive Civic campaign. Using Consent Law to hack open choices and provide and easy way for companies to respond and update consent or abide by preferences on behest of the individual. 
 
 Updated laws, new awareness, a willingess to enforce privacy law and lower tolerance by all of use people is now apparent.  The Rank Digital Rights Project (https://rankingdigitalrights.org/index2015/all-indicators/) - shows exactly how much companies care and the Special 2015 Eurobarometer report, (http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_data_protection_eurobarometer_240615_en.pdf) illustrates how much people don't like it.   
 
 This is apparent in the market now as the use of Ad blocker has grown to the biggest (commercial) boycott in human history, the EU-US Safe Harbor treaty has disintigrated and the courts are not supporting click through terms and commercial practices based on quasi consent.   
 
-We need new ways to control our data and privacy. 
+Companies and people need new and more performative ways to control  data and privacy.   This project is the effort that aims to create them.  The Privacy Day Project is intended to provide the research and development  data to explore this. 
 
 
 ****
 
-This hackathon project will use the Consent Record Specification from the Kantara Initiative,  Legal Hacking, and social power to create a button that makes it clear how to access, control and manage consent.  
+This hackathon project will use the Consent Record Specification from the Kantara Initiative,  Legal Hacking, and social power to create a button that makes it clear how to access, control and  enable people to manage consent.  
 
-On Privacy Day, we want to get as many people as possible to click a privacy day button, that opens a form, that people use to configure the button for a request to a company.   a button that asks for a copy of consent and provides the company with a persons terms.
+On Privacy Day, we want to get as many people as possible to click a privacy day button and sign a petition, send a request, and crowdsource company consent policy.  This is imagined throug the use of an open form that is hacked at the hackathon.  The form will help people  to configure their own button for a request to a company.  
 
-We are looking for all able bodies to help; writers/researchers, designers, developers, marketeers, promoters and evangelists. Any person who is interested in helping engineer tools so people  can  control and own their own data.  
+This opens up other possivle hacks for people to provide their own terms for consent preferences to companies, providing the signal needed for consent based networking to companies.   
 
-Starting with an introduction on Friday at 5:30 pm London Time,  with a Sandy Pentland key note. Continuing with 3 sessions on Saturday, and two on Sunday.
+To achived and explore all the possibilities consent based netorking with companies has, this hack will also aim to ambitiously create a project kit that can be used to create and extend the consent button for additional uses, other than those identified in the hack.  
+
+** more information to come
 
