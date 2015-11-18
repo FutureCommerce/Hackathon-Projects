@@ -8,9 +8,15 @@ The first event is on Friday at 5:30 - 8 pm London, England - its a social about
 This will be held at the Fab Lab in London 
 you can sign up to come to the London event at the hackathon on this webstie (https://onlinehackathon2015.sched.org/).  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
 
-The second part of the event is the Hackathon, you do not have to attend the hackathon to attend teh Friday night social. 
+The second part of the event is the Hackathon, you do not have to participate the hackathon to attend the Friday night social. 
 
 Everyone who signs up to the hackathon will get a slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
+
+All you have to do is 
+* sign up via https://onlinehackathon2015.sched.org/
+* fill in your profile
+* attend the hackathon sessions
+* send me an email/message to add you to Slack  m.lizar@openconsentgroup.com
 
 ****
 
