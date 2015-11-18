@@ -1,4 +1,4 @@
-Consent For Future Commerce : 
+** Consent For Future Commerce : 
 
 The Challenge: To Create and present a Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency to a company.  
 
