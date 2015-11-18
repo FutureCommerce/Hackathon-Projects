@@ -31,6 +31,8 @@ The Hack-plan is to work on Slack and via video conference to cover these module
 
 Everyone who has an interest and can help with any of the above, from legal hacking notice requirements, to creating instructions, promoting, making desings. etc.  
 
+(NOTE: We are also looking for other project research or otherwise who might be interested in making a buttong with the project kit or even partnering with the project itself.) 
+
 If there is anyone interested in facillitating one of the modules please get in touch as soon as possible to get in the loop. 
 
 (Note:The London track is not be competing for a prize, but will still be voted on. )
