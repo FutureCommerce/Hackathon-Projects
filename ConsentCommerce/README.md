@@ -54,7 +54,9 @@ This hackathon project will use the Consent Record Specification from the Kantar
 
 On Privacy Day, we want to get as many people as possible to click a privacy day button and sign a petition, send a request, and crowdsource company consent policy.  This is imagined throug the use of an open form that is hacked at the hackathon.  The form will help people  to configure their own button for a request to a company.  
 
-This opens up other possivle hacks for people to provide their own terms for consent preferences to companies, providing the signal needed for consent based networking to companies.   
+We will also create a response form for the company which will in effect create a consent record and response to the request in the form of a consent receipt which the individual then receives. 
+
+This opens up many other possivle 'consent for commercec' hacks for people to provide their own terms for consent preferences to companies, providing the signal needed for consent based networking to companies.   
 
 To achived and explore all the possibilities consent based netorking with companies has, this hack will also aim to ambitiously create a project kit that can be used to create and extend the consent button for additional uses, other than those identified in the hack.  
 
