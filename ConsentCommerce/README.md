@@ -1,5 +1,5 @@
 ** Consent For Future Commerce Project ** 
-http://futurecommerce.civics.com/
+https://onlinehackathon2015.sched.org/
 
 The Challenge: To Create and present a  Global Privacy Day campaign for the annual Privacy Day  that uses consent law to make a request for transparency and privacy.  
 
@@ -32,6 +32,15 @@ This Project Hack is meant to be fun and to cover modules of a plan to be presen
 * 4. The project kit to create more buttons
 * 5. The Presentation of the Project
 
+ Roles To Take ON
+* Social story
+* Button creator
+* Legal hacking - legal letter template  - and law referencing
+* Open api  - OC - UX
+* Presentation 
+* project kit
+*  preferences & user terms
+* notes
 
 The Hack-plan is to work on Slack and via video conference to cover these modules over the weekend as we work through a use case for the Privacy Day consent button.  i.e. Health Care Data Access. 
 
