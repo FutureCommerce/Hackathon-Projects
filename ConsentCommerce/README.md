@@ -73,5 +73,3 @@ To achived and explore all the possibilities consent based netorking with compan
 * Button List * 
 - Consent and Access Button
 - 
-
-
