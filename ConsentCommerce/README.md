@@ -14,12 +14,7 @@ The second part of the event is the Hackathon, you do not have to participate in
 
 All of the sessions are posted, and will have links, and all the relevant information will be on Slack.
 
-If you can make it in person the location is 
-Drive Productions
-14 Bowden Street
-London
-SE11 4DS
-(Northern Line to Kennington)
+If you can make it in person the location is still to be announced:
 
 Everyone who signs up to the hackathon will get a Slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
