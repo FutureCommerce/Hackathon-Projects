@@ -12,9 +12,7 @@ You can sign up to come to the London event at the hackathon on this webstie (ht
 
 The second part of the event is the Hackathon, you do not have to participate in the hackathon to attend the Friday night social.  The hackathon will run Saturday and Sunday, where we will hack together the campaign design.
 
-All of the sessions are posted, and will have links, and all the relevant information will be on Slack.
-
-If you can make it in person the location is still to be announced:
+All of the sessions are posted, and will have links, and all the relevant information will be on Slack for the virtual hackathon.
 
 Everyone who signs up to the hackathon will get a Slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
@@ -27,7 +25,7 @@ All you have to do is
 ****
  The underlying goal is to experiment with creating a two way policy communication channel between the consent grantor (the person), and the grantee (the organisation)
  
-This Project Hack has identified modules to plan out to be presented on Sunday
+This Project Hack is meant to be fun and to cover modules of a plan to be presented on Sunday
 * 1. the consent legal hack pattern (spreadsheet for creating a button) 
 * 2. THe UX (wire frame plan, template letter to company and dev time) 
 * 3. The UX for companies (wire frame plan, template letter to people, deve time) 
