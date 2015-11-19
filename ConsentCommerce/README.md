@@ -10,7 +10,16 @@ This will be held at the Fab Lab in London
 
 You can sign up to come to the London event at the hackathon on this webstie (https://onlinehackathon2015.sched.org/).  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
 
-The second part of the event is the Hackathon, you do not have to participate in the hackathon to attend the Friday night social. 
+The second part of the event is the Hackathon, you do not have to participate in the hackathon to attend the Friday night social.  The hackathon will run Saturday and Sunday, where we will hack together the campaign design.
+
+All of the sessions are posted, and will have links, and all the relevant information will be on Slack.
+
+If you can make it in person the location is 
+Drive Productions
+14 Bowden Street
+London
+SE11 4DS
+(Northern Line to Kennington)
 
 Everyone who signs up to the hackathon will get a Slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
@@ -33,11 +42,11 @@ This Project Hack has identified modules to plan out to be presented on Sunday
 
 The Hack-plan is to work on Slack and via video conference to cover these modules over the weekend as we work through a use case for the Privacy Day consent button.  i.e. Health Care Data Access. 
 
-Everyone who has an interest and can help with any of the above, from legal hacking notice requirements, to creating instructions, promoting, graphic desings, messaging form. etc.  
+Everyone who has an interest and can help with any of the above, from legal hacking notice requirements, to creating instructions, promoting, graphic desings, messaging, strategy,  etc.  
 
-(NOTE: We are also looking for other project research or otherwise who might be interested in making a buttong with the project kit or even partnering with the project itself.) 
+The plan is to model a legal hack using consent, then to create a Hack Project Kit, so that researchers, companies, and organisatons can create a Privacy Day button for their juridiction. 
 
-If there is anyone interested in facillitating one of the modules please get in touch as soon as possible to get in the loop. 
+If there is anyone interested in facillitating one of the modules please get in touch as soon as possible to get in the loop so that we can have multiple tracks going through the weekned. 
 
 (Note:The London track is not be competing for a prize, but will still be voted on. )
 
