@@ -7,13 +7,15 @@ The Challenge: To Create and present a  Global Privacy Day campaign for the annu
 The first event is on Friday at 5:30 - 8 pm London, England - its a social with a focus on consent and it  is arranged around the kick off of the MIT Medial Labs: Future of Commerce Hackathon & Un-Conference. 
 
 This will be held at the Fab Lab in London 
-1 Frederick's Place, London, EC2R 8AE, United Kingdom
+* 1 Frederick's Place, London, EC2R 8AE, United Kingdom
 
 You can sign up to come to the London event at the hackathon on this webstie (https://onlinehackathon2015.sched.org/).  Or if you just want to attend the Friday night social then send an email to m.lizar@openconsentgroup.com and I will put you on the list.  
 
 The second part of the event is the Hackathon, you do not have to participate in the hackathon to attend the Friday night social.  The hackathon will run Saturday and Sunday, where we will hack together the campaign design.
 
 We are meeting at Google Campus in London on Saturday at 12pm London Time.
+* 4-5 Bonhill St, London EC2A 4BX
+
 
 All of the sessions are posted on https://onlinehackathon2015.sched.org/, and will have links to session materials, and all the social chat and collaborating will be organised via Slack for the virtual hackathon.
 
