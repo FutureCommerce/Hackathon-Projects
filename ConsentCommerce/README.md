@@ -26,7 +26,8 @@ All you have to do is
 ****
 Background
 
-People have become the product and our personal data the oil of the Internet.  Terms of service and consent to privacy policies are un usable and not meaningful. People do not provide real consent, and the consent that is provided is practically meaningless for people.   We either like it, or lump it.  (up until now)
+People can't trust what we can't see.  This project is about making consent viewable. 
+People have become the product and our personal data the oil of the Internet but we can't see or use the controls at the moment.  Terms of service and consent to privacy policies are un usable and not meaningful.
 
 As such, This Future of Commerce Hackathon project is to create an effictive Civic campaign. Using Consent Law to hack open choices and provide and easy way for companies to respond and update consent or abide by preferences on behest of the individual. 
 
