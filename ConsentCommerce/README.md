@@ -13,7 +13,9 @@ You can sign up to come to the London event at the hackathon on this webstie (ht
 
 The second part of the event is the Hackathon, you do not have to participate in the hackathon to attend the Friday night social.  The hackathon will run Saturday and Sunday, where we will hack together the campaign design.
 
-All of the sessions are posted, and will have links, and all the relevant information will be on Slack for the virtual hackathon.
+We are meeting at Google Campus in London on Saturday at 12pm London Time.
+
+All of the sessions are posted on https://onlinehackathon2015.sched.org/, and will have links to session materials, and all the social chat and collaborating will be organised via Slack for the virtual hackathon.
 
 Everyone who signs up to the hackathon will get a Slack invite and added  to the hackathon github repository, unless you other wise specify a different preference 
 
