@@ -1,5 +1,12 @@
 ** Legal Hacking Notes
 
+* Background research
+* Updated laws, new awareness, a willingess to enforce privacy law and lower tolerance by all of use people is now apparent. The Rank Digital Rights Project (https://rankingdigitalrights.org/index2015/all-indicators/) - shows exactly how much companies care and the Special 2015 Eurobarometer report, (http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_data_protection_eurobarometer_240615_en.pdf) illustrates how much people don't like it. 
+* 
+
+******
+Legal sheet for consent rules
+https://docs.google.com/spreadsheets/d/12wDUuemk4XtzhcHHnoSvmu2AxEUFZcrCqzqL9IZFCK8/edit?usp=sharing
 
 The new data protection rules will apply to non-EU based businesses who offer their goods or services to EU customers based in the EU (or monitor their behaviour). For example a US company with a subsidiary in the EU will be required to comply with EU data protection law as well as their own local US laws.
 http://www.webanalyticsworld.net/2012/03/summary-of-the-proposed-new-eu-data-protection-regulation.html
